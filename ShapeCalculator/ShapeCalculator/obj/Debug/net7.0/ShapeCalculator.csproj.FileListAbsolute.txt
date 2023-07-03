@@ -1,0 +1,12 @@
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.csproj.AssemblyReference.cache
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.AssemblyInfo.cs
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\programing\C#\ShapeCalculator\ShapeCalculator\bin\Debug\net7.0\ShapeCalculator.deps.json
+C:\programing\C#\ShapeCalculator\ShapeCalculator\bin\Debug\net7.0\ShapeCalculator.dll
+C:\programing\C#\ShapeCalculator\ShapeCalculator\bin\Debug\net7.0\ShapeCalculator.pdb
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.dll
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\refint\ShapeCalculator.dll
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.pdb
+C:\programing\C#\ShapeCalculator\ShapeCalculator\obj\Debug\net7.0\ref\ShapeCalculator.dll
